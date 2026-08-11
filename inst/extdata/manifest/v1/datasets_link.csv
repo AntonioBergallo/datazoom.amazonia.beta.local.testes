@@ -71,7 +71,7 @@ mapbiomas,mapbiomas_fire,,,,https://storage.googleapis.com/mapbiomas-public/bras
 mapbiomas,mapbiomas_irrigation,,,,https://mapbiomas-br-site.s3.amazonaws.com/downloads/Estatisticas%20/Colecao_7_Irrigacao_Biomes_UF.xlsx,,2000-2019,"state, biome",,,,7,
 mapbiomas,mapbiomas_irrigation,biome,,,https://mapbiomas-br-site.s3.amazonaws.com/downloads/Estatisticas%20/Colecao_7_Irrigacao_Biomes_UF.xlsx,,2000-2019,"state, biome",,BIOME,,7,
 mapbiomas,mapbiomas_irrigation,state,,,https://mapbiomas-br-site.s3.amazonaws.com/downloads/Estatisticas%20/Colecao_7_Irrigacao_Biomes_UF.xlsx,,2000-2019,"state, biome",,UF,,7,
-mapbiomas,mapbiomas_mining,,,,https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2023/09/TABELA-MINERACAO-MAPBIOMAS-COL8.0.xlsx,https://brasil.mapbiomas.org/estatisticas/,1985-2022,"municipality, indigenous_land",,,,9,mapbiomas
+mapbiomas,mapbiomas_mining,,,,https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2025/03/TABELA-MINERACAO-MAPBIOMAS-COL9.0.xlsx,https://brasil.mapbiomas.org/estatisticas/,1985-2022,"municipality, indigenous_land",,,,9,mapbiomas
 mapbiomas,mapbiomas_mining,indigenous_land,,,https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2025/03/TABELA-MINERACAO-MAPBIOMAS-COL9.0.xlsx,https://brasil.mapbiomas.org/estatisticas/,1985-2022,"municipality, indigenous_land",,IL,,9,mapbiomas
 mapbiomas,mapbiomas_mining,municipality,,,https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2025/03/TABELA-MINERACAO-MAPBIOMAS-COL9.0.xlsx,https://brasil.mapbiomas.org/estatisticas/,1985-2022,"municipality, indigenous_land",,CITY_STATE_BIOME,,9,mapbiomas
 mapbiomas,mapbiomas_transition,,,,https://brasil.mapbiomas.org/estatisticas/,,1985-2023,"municipality, biome",,TRANSITION_9,,9,mapbiomas
