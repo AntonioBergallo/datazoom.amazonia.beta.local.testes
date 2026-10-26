@@ -1,5 +1,9 @@
 source,item_key,dataset,geo_level,verdict,reason,checked_at
 prodes,20260408,(all),,pass,,2026-09-08T21:14:40Z
-epe,consumer/industrial_energy_consumption,consumer/industrial_energy_consumption,,pass,,2026-09-08T21:14:42Z
+prodes,20261019,(all),,pass,,2026-10-26T10:38:21Z
+epe,consumer/industrial_energy_consumption,consumer/industrial_energy_consumption,,pass,,2026-10-26T10:37:56Z
 epe,national_energy_balance,national_energy_balance,,pass,,2026-09-08T21:14:42Z
 epe,energy_state_panel,energy_state_panel,,pass,,2026-09-08T21:14:42Z
+epe,"national_energy_balancenational_energy_balance: could not fetch the BEN Anexo IX page",national_energy_balance,,fail,national_energy_balance: could not fetch the BEN Anexo IX page,2026-10-26T10:37:56Z
+epe,"energy_state_panelenergy_state_panel: could not fetch the BEN Chapter 8 page",energy_state_panel,,fail,energy_state_panel: could not fetch the BEN Chapter 8 page,2026-10-26T10:37:56Z
+ips,2023_dc7f4721ef,(all),,pass,,2026-10-26T10:37:57Z
